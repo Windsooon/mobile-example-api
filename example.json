@@ -1,0 +1,8 @@
+{
+    "token": "your_token", 
+    "phone": "your_phone",
+    "bikecode": "your_bike",
+    "citycode": "010",
+    "latitude": "bike_latitude",
+    "longitude": "bike_longitude"
+}
